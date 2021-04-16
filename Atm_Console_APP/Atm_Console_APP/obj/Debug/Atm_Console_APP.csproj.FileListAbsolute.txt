@@ -1,0 +1,6 @@
+D:\Companies Tasks\ATMProject cshap\Atm_Console_APP\Atm_Console_APP\bin\Debug\Atm_Console_APP.exe.config
+D:\Companies Tasks\ATMProject cshap\Atm_Console_APP\Atm_Console_APP\bin\Debug\Atm_Console_APP.exe
+D:\Companies Tasks\ATMProject cshap\Atm_Console_APP\Atm_Console_APP\bin\Debug\Atm_Console_APP.pdb
+D:\Companies Tasks\ATMProject cshap\Atm_Console_APP\Atm_Console_APP\obj\Debug\Atm_Console_APP.csprojResolveAssemblyReference.cache
+D:\Companies Tasks\ATMProject cshap\Atm_Console_APP\Atm_Console_APP\obj\Debug\Atm_Console_APP.exe
+D:\Companies Tasks\ATMProject cshap\Atm_Console_APP\Atm_Console_APP\obj\Debug\Atm_Console_APP.pdb

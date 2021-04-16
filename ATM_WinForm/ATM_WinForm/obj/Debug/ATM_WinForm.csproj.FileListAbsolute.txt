@@ -1,0 +1,10 @@
+D:\Companies Tasks\ATMProject cshap\ATM_WinForm\ATM_WinForm\bin\Debug\ATM_WinForm.exe.config
+D:\Companies Tasks\ATMProject cshap\ATM_WinForm\ATM_WinForm\bin\Debug\ATM_WinForm.exe
+D:\Companies Tasks\ATMProject cshap\ATM_WinForm\ATM_WinForm\bin\Debug\ATM_WinForm.pdb
+D:\Companies Tasks\ATMProject cshap\ATM_WinForm\ATM_WinForm\obj\Debug\ATM_WinForm.csprojResolveAssemblyReference.cache
+D:\Companies Tasks\ATMProject cshap\ATM_WinForm\ATM_WinForm\obj\Debug\ATM_WinForm.Form1.resources
+D:\Companies Tasks\ATMProject cshap\ATM_WinForm\ATM_WinForm\obj\Debug\ATM_WinForm.Operations.resources
+D:\Companies Tasks\ATMProject cshap\ATM_WinForm\ATM_WinForm\obj\Debug\ATM_WinForm.Properties.Resources.resources
+D:\Companies Tasks\ATMProject cshap\ATM_WinForm\ATM_WinForm\obj\Debug\ATM_WinForm.csproj.GenerateResource.Cache
+D:\Companies Tasks\ATMProject cshap\ATM_WinForm\ATM_WinForm\obj\Debug\ATM_WinForm.exe
+D:\Companies Tasks\ATMProject cshap\ATM_WinForm\ATM_WinForm\obj\Debug\ATM_WinForm.pdb
